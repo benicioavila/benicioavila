@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic sofware sginieer
 
 ### 🚀 Expertise
 
-- Programming Languages: Java, C#, Python and Ruby
+- Programming Languages: Java, JS, C#, Python and Ruby
 - Web Development: Currently a Teach lead 
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
@@ -28,7 +28,7 @@ I'm deeply interested in:
 ### 📚 Hobbies
 
 Apart from coding, I enjoy:
-
+- Jiu-Jitsu
 - Writing and expressing my thoughts through words.
 - Reading books and expanding my knowledge.
 
