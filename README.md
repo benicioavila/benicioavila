@@ -1,8 +1,5 @@
 <h1 align="center">Hi there! I'm Benicio Ávila 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
-</p>
 
 <blockquote style="font-size: 24px;">
   <p align="center">
