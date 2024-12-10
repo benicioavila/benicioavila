@@ -7,7 +7,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic sofware sginieer with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+Welcome to my GitHub profile! I'm a passionate and enthusiastic sofware engineer with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
 
 ### 🚀 Expertise
 
