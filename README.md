@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic sofware engineer
 ### 🚀 Expertise
 
 - Programming Languages: Java, JS, C#, Python and Ruby
-- Web Development: Currently a Teach lead 
+- Tech Lead specializing in Web Development 
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
 ### 💡 Interests
